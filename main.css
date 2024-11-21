@@ -1,0 +1,227 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    padding-top: 46px;
+    box-sizing: border-box;
+border-bottom: 1px solid rgb(238, 238, 244);
+background: rgb(255, 255, 255);
+}
+.container{
+    max-width: 1180px;
+    width: 100%;
+    margin: 0 auto;
+}
+.header__nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header__list{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 40px;
+}
+.header__link:hover{
+    color: blue;
+}
+.header__link{
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: "Mulish";
+    color: #1F1534;
+    transition: 0.5s ease-in-out;
+}
+.text{
+    color: rgb(255, 255, 255);
+font-family: Plus Jakarta Sans;
+font-size: 14px;
+font-weight: 700;
+line-height: 120%;
+letter-spacing: 0px;
+text-align: center;
+}
+.button{
+    border-radius: 6px;
+
+background: rgb(16, 16, 16);
+}
+.lok{
+    color: rgb(16, 16, 16);
+font-family: Plus Jakarta Sans;
+font-size: 56px;
+font-weight: 700;
+line-height: 140%;
+letter-spacing: 0px;
+text-align: left;
+width: 450px;
+}
+.containerr{
+    display: flex;
+}
+.but{
+    border-radius: 6px;
+
+background: rgb(26, 171, 123);
+color: rgb(255, 255, 255);
+font-family: Plus Jakarta Sans;
+font-size: 16px;
+width: 200px;
+height: 50px;
+font-weight: 700;
+line-height: 120%;
+letter-spacing: 0px;
+text-align: center;
+}
+.bot{
+    list-style: none;
+    text-decoration: none;
+}
+.bosh{
+    color: rgb(16, 16, 16);
+font-family: Plus Jakarta Sans;
+font-size: 36px;
+font-weight: 600;
+line-height: 140%;
+letter-spacing: 0px;
+text-align: center;
+text-align: center;
+padding-top: 50px;
+}
+.services{
+    padding-bottom: 76px;
+
+}
+.services__textbox{
+    width: 952px;
+    margin: 30px auto;
+    text-align: center;
+}
+.services__wrapper{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 20px;
+}
+.services__title{
+    font-size: 35px;
+    font-weight: 700;
+    font-family: "Mulish";
+    line-height: 56px;
+    margin-bottom: 61px;
+}
+.services__text{
+    font-size: 18px;
+    font-weight: 400;
+}
+.services__box{
+    width: 380px;
+    background-color: #cdcccf;
+    border-radius: 20px;
+    padding: 68px 78px 28px 41px;
+    transition: 0.5s ease-in-out;
+    display: flex;
+}
+.services__subtitle{
+    font-size: 24px;
+    font-weight: 700;
+    font-family: "Mulish";
+    margin-bottom: 10px;
+    margin-top: 10px;
+    color: #000000;
+    transition: 0.5s ease-in-out;
+}
+.services__btn{
+    width: 50px;
+    height: 50px;
+}
+.services__description{
+    color: #7D7987;
+    font-size: 16px;
+    font-weight: 400;
+    transition: 0.5s ease-in-out;
+}
+
+.services__box:hover{
+    background-color: #5A98F2;
+}
+.oooo{
+    background-image: url(./images/image\ 1\ \(4\).png);
+}
+.hop{
+    padding-top: 50px;
+}
+.nfjfijjkg{
+    display: flex;
+}
+.vvv{
+    background: rgba(0, 0, 0, 0.73);
+}
+.bosh{
+    padding-bottom: 50px;
+}
+.hhh{
+    color: rgb(255, 255, 255);
+font-family: Plus Jakarta Sans;
+font-size: 20px;
+font-weight: 700;
+line-height: -1px;
+letter-spacing: 0%;
+text-align: left;
+padding-top: 60px;
+}
+.bots{
+   margin-top: 50px;
+}
+.botss{
+    margin-top: 50px;
+}
+.botsss{
+    margin-top: 50px;
+}
+.kol{
+    background: rgba(0, 0, 0, 0.73);
+    width: 565px;
+height: 434px;
+margin: 0 auto;
+}
+.pol{
+    width: 217.14px;
+height: 59px;
+margin-top: 50px;
+    border-radius: 6px;
+
+background: rgb(26, 171, 123);  
+color: rgb(255, 255, 255);
+font-family: Plus Jakarta Sans;
+font-size: 16px;
+font-weight: 700;
+line-height: 120%;
+letter-spacing: 0px;
+text-align: center;
+}
+.containers{
+    background: rgb(16, 16, 16);
+    width: 1440px;
+height: 220px;
+
+}
+.jojo{
+    width: 152px;
+height: 24px;
+}
+.mol{
+    margin: 0 auto;
+}
+.otak{
+    display: flex;
+    justify-content: space-between;
+}
+.foxs{
+    gap: 30px;
+}
